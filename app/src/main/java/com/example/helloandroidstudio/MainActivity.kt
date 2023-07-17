@@ -199,6 +199,13 @@ class MainActivity : ComponentActivity() {
 
 
 
+        val cities = arrayOf<String>("GYE", "UIO", "CUE", "MAN")
+
+        for(x in cities)
+            println(x)
+
+
+
         //While
 
         //While
